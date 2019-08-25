@@ -19,5 +19,5 @@ p num1 % num2
 end
 
 def square_root
-  p sqrt(num)
+  p cmath.sqrt(num)
 end
