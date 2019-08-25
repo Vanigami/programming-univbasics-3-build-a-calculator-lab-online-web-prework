@@ -18,5 +18,6 @@ def modulo(num1, num2)
 p num1 % num2
 end
 
-def num.sqrt
+def sqrt
+  p sqrt(num)
 end
